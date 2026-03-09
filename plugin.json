@@ -1,0 +1,41 @@
+{
+    "metadata": {
+      "author": "HieuDM",
+      "description": "Extension Vbook"
+    },
+    "data": [
+      {
+        "name": "Mê truyện CV.xyz",
+        "author": "HieuDM",
+        "path": "https://raw.githubusercontent.com/hieu45666/vbook_ext/main/Metruyencv.xyz/plugin.zip",
+        "version": 1,
+        "source": "metruyencv.xyz",
+        "icon": "https://raw.githubusercontent.com/hieu45666/vbook_ext/main/Metruyencv.xyz/icon.png",
+        "description": "Đọc truyện trên trang Mê truyện cv",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+       {
+        "name": "Mộng Truyện",
+        "author": "HieuDM",
+        "path": "https://raw.githubusercontent.com/hieu45666/vbook_ext/main/MongTruyen/plugin.zip",
+        "version": 2,
+        "source": "mongtruyen.com",
+        "icon": "https://raw.githubusercontent.com/hieu45666/vbook_ext/main/MongTruyen/icon.png",
+        "description": "Đọc truyện trên trang Mộng Truyện",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+       {
+        "name": "SsTruyen",
+        "author": "HieuDM",
+        "path": "https://raw.githubusercontent.com/hieu45666/vbook_ext/main/sstruyen.com/plugin.zip",
+        "version": 1,
+        "source": "sstruyen.com.vn",
+        "icon": "https://raw.githubusercontent.com/hieu45666/vbook_ext/main/sstruyen.com/icon.png",
+        "description": "Đọc truyện trên trang sstruyen.com.vn",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+    ]
+}
