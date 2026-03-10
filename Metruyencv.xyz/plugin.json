@@ -2,7 +2,7 @@
     "metadata": {
         "name": "Mê Truyện CV",
         "author": "HieuDM",
-        "version": "1.0.0",
+        "version": 1,
         "source": "https://metruyencv.xyz",
         "regexp": "(www.)?(metruyenchu|mtccv|metruyencv).[a-z]+/truyen/[a-zA-Z0-9-]+/?$",
         "type": "novel",
@@ -19,4 +19,5 @@
         "gen": "gen.js",
         "genre": "genre.js"
     }
+
 }
