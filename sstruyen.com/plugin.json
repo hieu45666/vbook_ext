@@ -2,7 +2,7 @@
     "metadata": {
         "name": "SSTruyen",
         "author": "HieuDM",
-        "version": "1.0.0",
+        "version": 1,
         "source": "https://sstruyen.com.vn",
         "regexp": "sstruyen\\.com\\.vn/([^/]+)/?$",
         "type": "text",
@@ -18,4 +18,5 @@
         "chap": "chap.js",
         "search": "search.js"
     }
+
 }
