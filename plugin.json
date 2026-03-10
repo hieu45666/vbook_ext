@@ -36,6 +36,17 @@
         "description": "Đọc truyện trên trang sstruyen.com.vn",
         "type": "novel",
         "locale": "vi_VN"
+      },
+	{
+        "name": "Truyện Mới",
+        "author": "HieuDM",
+        "path": "https://raw.githubusercontent.com/hieu45666/vbook_ext/main/TruyenMoi/plugin.zip",
+        "version": 2,
+        "source": "https://truyenmoikk.com",
+        "icon": "https://raw.githubusercontent.com/hieu45666/vbook_ext/main/TruyenMoi//icon.png",
+        "description": "Đọc truyện trên trang Truyện Mới",
+        "type": "novel",
+        "locale": "vi_VN"
       }
     ]
 }
