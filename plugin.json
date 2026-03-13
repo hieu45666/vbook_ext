@@ -58,7 +58,19 @@
         "description": "Đọc truyện trên trang ZetTruyen",
         "type": "comic",
         "locale": "vi_VN"
+      },
+	{
+        "name": "Truyện Đọc Việt",
+        "author": "HieuDM",
+        "path": "https://raw.githubusercontent.com/hieu45666/vbook_ext/main/Truyendocviet/plugin.zip",
+        "version": 1,
+        "source": "https://truyendocviet1.xyz",
+        "icon": "https://raw.githubusercontent.com/hieu45666/vbook_ext/main/Truyendocviet/icon.png",
+        "description": "Đọc truyện trên trang Truyện Đọc Việt",
+        "type": "novel",
+        "locale": "vi_VN"
       }
+
     ]
 }
 
