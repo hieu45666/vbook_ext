@@ -32,5 +32,6 @@ function execute(key, page) {
 
     var next = (parseInt(page) + 1).toString();
 
+    if (data == null) return Response(data);
     return Response.success(data, next);
 }
