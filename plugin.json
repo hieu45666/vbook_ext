@@ -63,7 +63,7 @@
         "name": "Truyện Đọc Việt",
         "author": "HieuDM",
         "path": "https://raw.githubusercontent.com/hieu45666/vbook_ext/main/Truyendocviet/plugin.zip",
-        "version": 2,
+        "version": 3,
         "source": "https://truyendocviet1.xyz",
         "icon": "https://raw.githubusercontent.com/hieu45666/vbook_ext/main/Truyendocviet/icon.png",
         "description": "Đọc truyện trên trang Truyện Đọc Việt",
