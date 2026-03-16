@@ -2,7 +2,7 @@
   "metadata": {
     "name": "Truyện Đọc Việt",
     "author": "HieuDM",
-    "version": 1,
+    "version": 2,
     "source": "https://truyendocviet1.xyz/",
     "regexp": "truyendocviet\\d*\\.xyz\\/doc-truyen\\/[^\/]+\\.html$",
     "description": "Extension đọc truyện từ trang Truyện Đọc Việt",
