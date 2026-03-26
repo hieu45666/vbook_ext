@@ -80,6 +80,17 @@
         "description": "Đọc truyện trên trang Mê truyện cv",
         "type": "novel",
         "locale": "vi_VN"
+      },
+	{
+        "name": "Novest",
+        "author": "HieuDM",
+        "path": "https://raw.githubusercontent.com/hieu45666/vbook_ext/main/Novest/plugin.zip",
+        "version": 3,
+        "source": "https://novest.me",
+        "icon": "https://raw.githubusercontent.com/hieu45666/vbook_ext/main/Novest/icon.png",
+        "description": "Đọc truyện trên trang Novest.me",
+        "type": "novel",
+        "locale": "vi_VN"
       }
     ]
 }
