@@ -69,6 +69,17 @@
         "description": "Đọc truyện trên trang Truyện Đọc Việt",
         "type": "novel",
         "locale": "vi_VN"
+      },
+	{
+        "name": "Mê truyện chữ chấm CO",
+        "author": "HieuDM",
+        "path": "https://raw.githubusercontent.com/hieu45666/vbook_ext/main/MTC.co/plugin.zip",
+        "version": 1,
+        "source": "https://metruyenchu.co/",
+        "icon": "https://raw.githubusercontent.com/hieu45666/vbook_ext/main/MTC.co/icon.png",
+        "description": "Đọc truyện trên trang Mê truyện cv",
+        "type": "novel",
+        "locale": "vi_VN"
       }
     ]
 }
