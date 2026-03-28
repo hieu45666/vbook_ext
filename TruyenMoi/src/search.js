@@ -1,8 +1,12 @@
 function execute(key, page) {
     if (!page) page = '1';
-    
-    // Check lại format URL tìm kiếm của trang
-    let response = fetch("https://truyenmoikk.com/tim-kiem/?tu-khoa=" + key + "&trang=" + page);
+
+    let searchUrl = "https://truyenmoikk.com/tim-kiem/?tukhoa=" + key;
+    if (page !== '1') {
+        searchUrl = "https://truyenmoikk.com/tim-kiem/trang-" + page + "/?tukhoa=" + key;
+    }
+
+    let response = fetch(searchUrl);
     
     if (response.ok) {
         let doc = response.html();
