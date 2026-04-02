@@ -2,7 +2,7 @@
   "metadata": {
     "name": "Si Truyện CV",
     "author": "HieuDM",
-    "version": 1,
+    "version": 2,
     "source": "https://sitruyencv.com",
     "regexp": "^https?:\\/\\/sitruyencv\\.com\\/story\\/\\d+-.*",
     "description": "Đọc truyện từ trang Si Truyện CV",

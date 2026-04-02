@@ -44,7 +44,7 @@ function execute(key, page) {
         var name = e.name || e.title || "";
         var slug = e.slug || e._id || e.id || "";
 
-        var link = "https://sitruyencv.com/story/" + slug;
+        var link = "https://sitruyencv.com/story/" + e.id + "-"+ slug;
 
         var cover = e.cover_image_url;
 
