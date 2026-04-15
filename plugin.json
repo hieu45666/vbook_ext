@@ -102,6 +102,17 @@
         "description": "Đọc truyện trên trang Sitruyencv.com",
         "type": "novel",
         "locale": "vi_VN"
+      },
+	{
+        "name": "Inkitt",
+        "author": "HieuDM",
+        "path": "https://raw.githubusercontent.com/hieu45666/vbook_ext/main/Inkitt/plugin.zip",
+        "version": 1,
+        "source": "https://inkitt.com",
+        "icon": "https://raw.githubusercontent.com/hieu45666/vbook_ext/main/Inkitt/icon.png",
+        "description": "Đọc truyện trên trang Inkitt.com",
+        "type": "novel",
+        "locale": "en_US"
       }
     ]
 }
