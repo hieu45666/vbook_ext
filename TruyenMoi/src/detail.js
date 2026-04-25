@@ -3,7 +3,9 @@ function execute(url) {
     if (response.ok) {
         let doc = response.html();
         
-        let name = doc.select('h3[itemprop="name"]').text();
+        let name = doc.select('h1.story-title[itemprop="name"]').text();
+        if (!name) name = doc.select('h1[itemprop="name"]').text();
+        if (!name) name = doc.select('h3[itemprop="name"]').text();
         if (!name) name = doc.select("h3.truyen-title").text();
         
         let cover = doc.select('img[itemprop="image"]').attr("src");
